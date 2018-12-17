@@ -1,7 +1,10 @@
 # Measuring Convergence and Divergence in Varieties of Chinese: A Lectometric Approach
 Project reference: CHILECTO-793920
+
 MARIE SKŁODOWSKA-CURIE ACTIONS
+
 H2020-MSCA-IF-2017
+
 This project is based at the University of Leuven and will run from September 2018 to September 2020.
 
 ## Project objective
