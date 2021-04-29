@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/162181720.svg)](https://zenodo.org/badge/latestdoi/162181720)
+
+
 # Measuring Convergence and Divergence in Varieties of Chinese: A Lectometric Approach
 Project reference: CHILECTO-793920
 
