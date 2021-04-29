@@ -1,0 +1,16 @@
+concept,variant
+attacker,"前锋/N,锋线/N,射手/N"
+kickoff,"开球/N,开赛/N,开球/V,开赛/V"
+offside,"越位/V"
+goalkeeper,"守门员/N,门将/N"
+goal,"进球/N,得分/V,得分/N,破门/N"
+hands,"手球/N,手触球/N"
+cornerkick,"角球/N"
+foul,"犯规/V,犯规/N"
+referee,"裁判/N,裁判/V,主裁判/V,主裁/V"
+penalitykick,"点球/N,极刑/N,十二码球/N"
+counterattack,"反击/V,反击/N,反攻/N,反攻/V"
+defender,"后卫/N,防线/N"
+cross,"横传/N,传中/N,长传/N"
+freekick,"任意球/N,自由球/N"
+
