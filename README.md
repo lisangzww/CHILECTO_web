@@ -12,4 +12,5 @@ What can Chinese teach us about the languages of Europe? Sociolinguistic researc
 In practice, the project intends: 1) to evaluate lectometric measurements that have been recently developed for studying changes in the position of standard languages in Europe and offer a methodological guideline with which lexical variation among lects can be structured more comprehensively and cost-efficiently; 2) to identify the multifactorial variational structure that underlies the Chinese lexicon in written texts (synchronically); 3) to uncover how the stratificational distances among lects are changing progressively (diachronically) and to confront with what we find for Chinese and what we know about the processes in Europe. 
 The project targets academics as well as policy makers. It will provide new insights into the (lectometric) study of language variation, and thus yield fine-grained empirical evidence for language planning at the political level.
 
-## Our team
+## Project website
+https://sites.google.com/view/chilecto
