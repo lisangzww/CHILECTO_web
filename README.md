@@ -17,3 +17,6 @@ The project targets academics as well as policy makers. It will provide new insi
 
 ## Project website
 https://sites.google.com/view/chilecto
+
+## Collaboration
+Embedded in the KULeuven C1 project "[Nephological Semantics](https://www.arts.kuleuven.be/ling/qlvl/projects/current/nephological-semantics)" at the research unit of [Quantitative Lexicology and Variational Linguistics](https://www.arts.kuleuven.be/ling/qlvl), we coordinate closely with the C1 project members to get more functional collaboration.
