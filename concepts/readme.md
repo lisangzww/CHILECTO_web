@@ -1,4 +1,4 @@
-This folder contains concordances, frequency matrices and mds coordinates for the concepts.
+This folder contains concordances, frequency matrices and mds coordinates for the concepts used in our case studies.
 
 ## concordances:
 - concordance_lemma.ctok (only with lemmas)
